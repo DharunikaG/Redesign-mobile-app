@@ -15,3 +15,8 @@ very usefull for the users based on my experiance while using this application.
 I have redesigned buttons based on the priority of its usage. So here I have placed the "create post" icon to the lower center of screen for
 easy access and removed the "video" icon for there and placed it in the top where we previously had the"create post" icon.
 Here we are using the "create post" icon frequently so if i keep that in center it will be easy to acces.
+
+OLDER VERSION:
+![Image](https://github.com/user-attachments/assets/d93df31f-8f75-4101-a6f2-80b26e111255)
+
+REDESIGNED VERSION:
