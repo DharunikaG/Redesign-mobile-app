@@ -17,7 +17,9 @@ easy access and removed the "video" icon for there and placed it in the top wher
 Here we are using the "create post" icon frequently so if i keep that in center it will be easy to acces.
 
 OLDER VERSION:
+
 ![Image](https://github.com/user-attachments/assets/d93df31f-8f75-4101-a6f2-80b26e111255)
 
 REDESIGNED VERSION:
+
 ![Image](https://github.com/user-attachments/assets/6f840194-56dc-43c1-8fec-3868bfe0a102)
