@@ -16,6 +16,9 @@ I have redesigned buttons based on the priority of its usage. So here I have pla
 easy access and removed the "video" icon for there and placed it in the top where we previously had the"create post" icon.
 Here we are using the "create post" icon frequently so if i keep that in center it will be easy to acces.
 
+PROTOTYPE LINK :
+https://www.figma.com/proto/TMUVFgPEJiLh0Rfay6slLH/Untitled?node-id=1-30&p=f&t=E1c14MJvTX8d5OGB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
+
 OLDER VERSION:
 
 ![Image](https://github.com/user-attachments/assets/d93df31f-8f75-4101-a6f2-80b26e111255)
